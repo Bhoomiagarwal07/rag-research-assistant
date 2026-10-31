@@ -1,0 +1,2 @@
+{"question": "What is the difference between bagging and boosting?", "expected_answer": "Bagging trains models in parallel on bootstrap samples to reduce variance; boosting trains sequentially, focusing on previous errors to reduce bias.", "doc": "ml_textbook.pdf", "pages": [212, 213]}
+{"question": "What is the capital of Mars?", "expected_answer": "I could not find this in the uploaded documents.", "doc": "ml_textbook.pdf", "pages": []}
